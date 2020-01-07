@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98a58790-e423-4aaf-aeeb-c7b317c66861" name="Default Changelist" comment="" />
+    <list default="true" id="98a58790-e423-4aaf-aeeb-c7b317c66861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +121,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1W4vHd4WSckV3McBPnMHkKU0HH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -121,6 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/database/factories" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -163,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578421594584</updated>
       <workItem from="1578421596760" duration="238000" />
-      <workItem from="1578421856171" duration="11903000" />
+      <workItem from="1578421856171" duration="12410000" />
     </task>
     <servers />
   </component>
@@ -179,6 +188,10 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="627" y="258" width="657" height="601" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1578433678157" />
+    <state x="450" y="78" width="1012" height="960" key="CommitChangelistDialog2" timestamp="1578434320793">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="450" y="78" width="1012" height="960" key="CommitChangelistDialog2/0.31.1920.1049@0.31.1920.1049" timestamp="1578434320793" />
     <state x="624" y="325" width="664" height="467" key="NewPhpClassDialog" timestamp="1578433307626">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
