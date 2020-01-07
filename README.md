@@ -1,3 +1,5 @@
+# Requirements
+`Php 7.3`
 # Installation
 
 ```
