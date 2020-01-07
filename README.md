@@ -10,6 +10,7 @@ Change your `.env` file and specify your database
 
 ```
 php artisan key:generate
+php artisan migrate:fresh --seed
 php artisan serve
 ```
 
