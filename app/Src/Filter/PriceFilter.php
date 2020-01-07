@@ -43,11 +43,11 @@ class PriceFilter
     private function priceFilter($query, int $min = null, int $max = null)
     {
         if (null !== $min) {
-            $query->where('price', '>', $min);
+            $query->where('price', '>=', $min);
         }
 
         if (null !== $max) {
-            $query->where('price', '<', $max);
+            $query->where('price', '<=', $max);
         }
     }
 }
